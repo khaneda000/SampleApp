@@ -1,0 +1,43 @@
+PODS:
+  - Alamofire (4.0.1)
+  - KeychainAccess (3.0.0)
+  - KYDrawerController (2.0.1)
+  - MMDrawerController (0.5.7):
+    - MMDrawerController/Core (= 0.5.7)
+    - MMDrawerController/MMDrawerBarButtonItem (= 0.5.7)
+    - MMDrawerController/MMDrawerVisualStates (= 0.5.7)
+    - MMDrawerController/Subclass (= 0.5.7)
+  - MMDrawerController/Core (0.5.7)
+  - MMDrawerController/MMDrawerBarButtonItem (0.5.7):
+    - MMDrawerController/Core
+  - MMDrawerController/MMDrawerVisualStates (0.5.7):
+    - MMDrawerController/Core
+  - MMDrawerController/Subclass (0.5.7):
+    - MMDrawerController/Core
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - SVProgressHUD (2.1.2)
+  - SwiftDate (4.0.13)
+
+DEPENDENCIES:
+  - Alamofire (= 4.0.1)
+  - KeychainAccess (= 3.0.0)
+  - KYDrawerController
+  - MMDrawerController (~> 0.5.7)
+  - SDWebImage
+  - SVProgressHUD
+  - SwiftDate (= 4.0.13)
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  KeychainAccess: 412bf2650d9aebfc8135a58103b90ec38caad7f8
+  KYDrawerController: b716cfa5730dc2133a67efcfc28b3b5a2cff6101
+  MMDrawerController: 7a4cf8e25596bf2434e03ce50d22a8608ddee6a1
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+  SwiftDate: 8ec416bb1b5129d1f35e8efaed720421f41d42df
+
+PODFILE CHECKSUM: 6291493a85c1bd59d0e4805aae4439e7f2bda5ac
+
+COCOAPODS: 1.0.0
